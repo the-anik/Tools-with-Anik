@@ -1,0 +1,6 @@
+{
+  "name": "Anik Studio — Unified PDF & Utility Workspace",
+  "description": "All-in-one private browser workspace combining 22 PDF tools, a 16-engine PDF Batch Studio, and 208 image, text, file, calculator, developer, productivity, travel, everyday, and business utilities.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
